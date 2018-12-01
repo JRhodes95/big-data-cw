@@ -1,9 +1,11 @@
 # Level 3 Fake News Identification Project
 ## Big Data Summative Assignment
 
-**Author: Z0954757**
+**Author: JRhodes95 - Z0954757**
 
 ## Environment Set-Up
+Full Dataset not included in repo due to large size.
+
 This project was created in an environment with the following packages:
 * Python 2.7,
 * Numpy,
